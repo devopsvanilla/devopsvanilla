@@ -1,20 +1,20 @@
-# Sobre Mim
+# About Me
 
-🚀 Sou um entusiasta da transformação digital e da agilidade nas organizações. Minha expertise em **DevOps** e **SRE** permite garantir a entrega contínua e a confiabilidade dos sistemas, aplicando princípios e práticas essenciais. Utilizo a metodologia **Design Sprint** para resolver problemas complexos e validar ideias de forma rápida e colaborativa.
+🚀 I am an enthusiast of digital transformation and agility in organizations. My expertise in **DevOps** and **SRE** ensures continuous delivery and system reliability by applying essential principles and practices. I use the **Design Sprint** methodology to solve complex problems and validate ideas quickly and collaboratively.
 
-🌐 Promovo o uso de **tecnologias open source** e **plataformas em nuvem**, otimizando recursos e reduzindo custos significativamente. Minha paixão por compartilhar conhecimento se reflete nas **palestras curtas**, **oficinas** e **hackathons** que conduzo, reunindo profissionais de TI e negócios em uma jornada de aprendizado e inovação.
+🌐 I promote the use of **open source technologies** and **cloud platforms**, optimizing resources and significantly reducing costs. My passion for sharing knowledge is reflected in the **short talks**, **workshops**, and **hackathons** I conduct, bringing together IT and business professionals on a journey of learning and innovation.
 
-## 🛠️ Competências
+## 🛠️ Skills
 
 - **DevOps**
 - **SRE**
 - **Design Sprint**
-- **Tecnologias Open Source**
-- **Plataformas em Nuvem**
-- **Palestras e Oficinas**
+- **Open Source Technologies**
+- **Cloud Platforms**
+- **Talks and Workshops**
 - **Hackathons**
 
-## 📫 Entre em Contato!
+## 📫 Get in Touch!
 
 - [LinkedIn](https://www.linkedin.com/in/sandrociceros/)
 - [WhatsApp](https://api.whatsapp.com/send/?phone=5511988954887&text=Ol%C3%A1,%20DevOps%20Vanilla!&type=phone_number&app_absent=0)
