@@ -19,6 +19,6 @@
 - [LinkedIn](https://www.linkedin.com/in/sandrociceros/)
 - [WhatsApp](https://api.whatsapp.com/send/?phone=5511988954887&text=Ol%C3%A1,%20DevOps%20Vanilla!&type=phone_number&app_absent=0)
 
-- ___
+___
 
-- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=43c771d8a6f1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=43c771d8a6f1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
