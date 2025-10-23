@@ -18,6 +18,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/sandrociceros/)
 - [WhatsApp](https://api.whatsapp.com/send/?phone=5511988954887&text=Ol%C3%A1,%20DevOps%20Vanilla!&type=phone_number&app_absent=0)
+- [Medium] (https://medium.com/@devopsvanillaofficial)
 
 ___
 
